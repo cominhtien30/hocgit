@@ -1,2 +1,6 @@
 git master 1
+<<<<<<< HEAD
 git master change
+=======
+git bate change
+>>>>>>> beta
